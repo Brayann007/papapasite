@@ -13,6 +13,7 @@ body{
 }
 
 header{
+    position: relative;
     background: url(galinha-pintadinha-e-familia-360x175.png) no repeat;
     height: 175px;
     width: 100%;
