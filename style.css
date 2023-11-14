@@ -6,6 +6,7 @@
 }
 
 body{
+    position: absolute;
     background-color: #ffcc00;
     color: black;
     text-align: center;
