@@ -8,11 +8,12 @@
 body{
     background-color: #ffcc00;
     color: black;
+    text-align: center;
 }
 
 header{
-    background: url(galinha-pintadinha-e-familia-360x175.png) 360px 175 no repeat;
-    height: 6vh;
+    background: url(galinha-pintadinha-e-familia-360x175.png) no repeat;
+    height: 175px;
     width: 100%;
     align-items: center;
 }
