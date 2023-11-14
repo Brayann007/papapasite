@@ -11,7 +11,8 @@ body{
 }
 
 header{
-    background: url(galinha-pintadinha-e-familia-360x175.png) ;
+    background: url(galinha-pintadinha-e-familia-360x175.png) 360px 175 no repeat;
     height: 6vh;
     width: 100%;
+    align-items: center;
 }
